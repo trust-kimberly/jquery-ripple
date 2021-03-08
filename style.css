@@ -7,3 +7,11 @@ body {
   margin: 0;
   padding: 0;  
 }
+
+h1 {
+  position: relative;
+  z-index: 5;
+  color: seashell;
+  top: 50%;
+  text-align: center;
+}
