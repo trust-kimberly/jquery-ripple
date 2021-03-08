@@ -5,6 +5,7 @@ html {
     background-image: url(media/blobfish.jpg);
     background-size: cover;
     background-position: center;
+    position: fixed;
     height: 100%;
     margin: 0;
     padding: 0;
